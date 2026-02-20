@@ -5,3 +5,8 @@ Answer: It offers Tracking, Feature Isolation, Collaboration and peer reviews wh
 Q2: What field could data science be applied to? Give an Example.
 
 Answer: Environmental Field because lots of data is collected regarding nature and species. This data can be stored in data structures and interpreted using data science to draw patterns about different species. 
+
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merging preserves full history of both branches with a commit while rebase rewrites the project history. 
