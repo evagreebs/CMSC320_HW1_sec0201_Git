@@ -10,3 +10,8 @@ Answer: Environmental Field because lots of data is collected regarding nature a
 Q3: What is the difference between Merging and Rebasing?
 
 Answer: Merging preserves full history of both branches with a commit while rebase rewrites the project history. 
+
+
+Q4: What are you looking forward to this semester?
+
+Answer: Getting better at SQL. 
